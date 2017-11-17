@@ -1,6 +1,6 @@
 # bitrix_setup
 bitrix_setup
-## Установка BOOTSTRAP с SAASS
+## Установка BOOTSTRAP с SASS
 
 SASS - bootstrap custom
 
